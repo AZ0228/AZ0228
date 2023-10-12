@@ -1,7 +1,6 @@
 ### Hi there, I'm James
 
-I’m currently a second year computer science student studying at the Rensselaer Polytechnic Institute. I have a strong passion for web development and have honed my skills in UI/UX design, frontend, and backend development. Specifically, I’m experienced with HTML, CSS, AJAX (js fetch), JavaScript, C++, Python (Flask), and Figma.
-
+I’m currently a second-year computer science student studying at the Rensselaer Polytechnic Institute. I have a strong passion for web development and have honed my skills in UI/UX design, frontend, and backend development.
 What excites me the most about web development is the opportunity to create intuitive and impactful user experiences. Below, you'll find a showcase of my projects. Feel free to check them out or reach out if you'd like to collaborate!
 
 <!--
