@@ -11,6 +11,7 @@ What excites me the most about web development is the opportunity to create intu
 
 
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=AZ0228&theme=blood-dark&hide_border=true&background=0D1117&ring=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&fire=FA756D&currStreakLabel=EBEBEB&sideLabels=FA756D)](https://git.io/streak-stats)
 **AZ0228/AZ0228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
