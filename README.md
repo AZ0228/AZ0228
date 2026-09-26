@@ -1,13 +1,8 @@
 ### Hi there, I'm James
 
-
-I’m currently a senior computer science student studying at the Rensselaer Polytechnic Institute. I have a strong passion for web development and have honed my skills in UI/UX design, frontend, and backend development.
-
-What excites me the most about web development is the opportunity to create intuitive and impactful user experiences. Below, you'll find a showcase of my projects. Feel free to check them out or reach out if you'd like to collaborate!
+I love to build 
 
 <a href="https://www.linkedin.com/in/jamesliu0309/"><img src="linkedin.svg" width="30" height = "30"></a><a href="mailto:liujames004@gmail.com"><img src="mail.svg" width="60" height = "30"></a>
-
-<div>Languages/Technologies: Python, C++, C, JavaScript, HTML/CSS, React.js, Chart.js, Flask, Jinja </div>
 
 
 <!--
